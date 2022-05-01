@@ -1,0 +1,13 @@
+name: ScreenShareCore
+version: '${project.version}'
+main: it.skymc.screensharecore.Main
+api-version: 1.16
+authors: [ ohhhhNess, YumaHisai, Tricolor ]
+description: Plugin ufficiale SkyMC Controlli
+softdepend:
+  - PlaceholderAPI
+commands:
+  sloc:
+    description: "Imposta Posizioni Per Il Controllo"
+  finish:
+    description: "Finisci il controllo"

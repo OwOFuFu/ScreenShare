@@ -1,0 +1,5 @@
+name: ScreenShareAPI
+version: '${project.version}'
+main: it.skymc.screenshareapi.ScreenShareAPI
+api-version: 1.16
+authors: [ ohhhNess, YumaHisai, Tricolor ]

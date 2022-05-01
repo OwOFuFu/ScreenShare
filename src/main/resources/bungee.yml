@@ -1,0 +1,4 @@
+name: ScreenShare
+version: '${project.version}'
+main: it.skymc.screenshare.ScreenShare
+description: Plugin Ufficiale SkyMC Controlli
